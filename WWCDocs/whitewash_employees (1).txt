@@ -1,0 +1,350 @@
+Employee ID: 1001
+ First Name: Tom
+ Last Name: Sawyer
+ Address: 12 Whitewash Ln, Hannibal, MO 63401
+ Phone: (555) 101-1001
+ Email: t.sawyer@whitewashandco.com
+ Humorous Bio: Expert in avoiding work by convincing others it's fun.
+Employee ID: 1002
+ First Name: Huckleberry
+ Last Name: Finn
+ Address: 7 Riverbank Rd, St. Petersburg, MO 63402
+ Phone: (555) 101-1002
+ Email: h.finn@whitewashandco.com
+ Humorous Bio: Prefers remote work… usually from a raft.
+Employee ID: 1003
+ First Name: Becky
+ Last Name: Thatcher
+ Address: 22 Schoolhouse St, Hannibal, MO 63401
+ Phone: (555) 101-1003
+ Email: b.thatcher@whitewashandco.com
+ Humorous Bio: Keeps things organized, especially caves and classrooms.
+Employee ID: 1004
+ First Name: Sid
+ Last Name: Sawyer
+ Address: 12 Whitewash Ln, Hannibal, MO 63401
+ Phone: (555) 101-1004
+ Email: s.sawyer@whitewashandco.com
+ Humorous Bio: Reports all suspicious activity, especially fun.
+Employee ID: 1005
+ First Name: Aunt
+ Last Name: Polly
+ Address: 12 Whitewash Ln, Hannibal, MO 63401
+ Phone: (555) 101-1005
+ Email: a.polly@whitewashandco.com
+ Humorous Bio: HR manager who believes in tough love and chores.
+Employee ID: 1006
+ First Name: Joe
+ Last Name: Harper
+ Address: 3 Pirate Cove, Mississippi River, MO 63403
+ Phone: (555) 101-1006
+ Email: j.harper@whitewashandco.com
+ Humorous Bio: Once ran away to become a pirate, now works in accounting.
+Employee ID: 1007
+ First Name: Muff
+ Last Name: Potter
+ Address: 9 Alleyway Dr, Hannibal, MO 63401
+ Phone: (555) 101-1007
+ Email: m.potter@whitewashandco.com
+ Humorous Bio: Innocent… probably.
+Employee ID: 1008
+ First Name: Injun
+ Last Name: Joe
+ Address: 66 Cave Entrance Rd, Hannibal, MO 63401
+ Phone: (555) 101-1008
+ Email: i.joe@whitewashandco.com
+ Humorous Bio: Specializes in disappearing acts during meetings.
+Employee ID: 1009
+ First Name: Mary
+ Last Name: Sawyer
+ Address: 12 Whitewash Ln, Hannibal, MO 63401
+ Phone: (555) 101-1009
+ Email: m.sawyer@whitewashandco.com
+ Humorous Bio: The responsible one who actually gets things done.
+Employee ID: 1010
+ First Name: Widow
+ Last Name: Douglas
+ Address: 45 Charity Hill, St. Petersburg, MO 63402
+ Phone: (555) 101-1010
+ Email: w.douglas@whitewashandco.com
+ Humorous Bio: Always trying to improve everyone's manners.
+Employee ID: 1011
+ First Name: Judge
+ Last Name: Thatcher
+ Address: 101 Courthouse Sq, Hannibal, MO 63401
+ Phone: (555) 101-1011
+ Email: j.thatcher@whitewashandco.com
+ Humorous Bio: Approves budgets and disapproves of fun.
+Employee ID: 1012
+ First Name: Jim
+ Last Name: Watson
+ Address: 7 Riverbank Rd, St. Petersburg, MO 63402
+ Phone: (555) 101-1012
+ Email: j.watson@whitewashandco.com
+ Humorous Bio: Wise beyond measure, especially about human nature.
+Employee ID: 1013
+ First Name: Pap
+ Last Name: Finn
+ Address: Unknown (last seen near a barrel)
+ Phone: (555) 101-1013
+ Email: p.finn@whitewashandco.com
+ Humorous Bio: Strong opinions, weak follow-through.
+Employee ID: 1014
+ First Name: Ben
+ Last Name: Rogers
+ Address: 14 Apple Bite St, Hannibal, MO 63401
+ Phone: (555) 101-1014
+ Email: b.rogers@whitewashandco.com
+ Humorous Bio: Still suspicious of free work opportunities.
+Employee ID: 1015
+ First Name: Alfred
+ Last Name: Temple
+ Address: 88 Fancy Ave, Hannibal, MO 63401
+ Phone: (555) 101-1015
+ Email: a.temple@whitewashandco.com
+ Humorous Bio: Dresses well, works occasionally.
+Employee ID: 1016
+ First Name: Amy
+ Last Name: Lawrence
+ Address: 17 Schoolyard Ln, Hannibal, MO 63401
+ Phone: (555) 101-1016
+ Email: a.lawrence@whitewashandco.com
+ Humorous Bio: Expert in dramatic workplace exits.
+Employee ID: 1017
+ First Name: Buck
+ Last Name: Grangerford
+ Address: 200 Feud Rd, Mississippi County, MO 63404
+ Phone: (555) 101-1017
+ Email: b.grangerford@whitewashandco.com
+ Humorous Bio: Brings family drama into every team meeting.
+Employee ID: 1018
+ First Name: Emmeline
+ Last Name: Grangerford
+ Address: 200 Feud Rd, Mississippi County, MO 63404
+ Phone: (555) 101-1018
+ Email: e.grangerford@whitewashandco.com
+ Humorous Bio: Writes tragic memos about broken staplers.
+Employee ID: 1019
+ First Name: Colonel
+ Last Name: Grangerford
+ Address: 200 Feud Rd, Mississippi County, MO 63404
+ Phone: (555) 101-1019
+ Email: c.grangerford@whitewashandco.com
+ Humorous Bio: Leads meetings like they're battlefield strategy.
+Employee ID: 1020
+ First Name: Sophia
+ Last Name: Grangerford
+ Address: 200 Feud Rd, Mississippi County, MO 63404
+ Phone: (555) 101-1020
+ Email: s.grangerford@whitewashandco.com
+ Humorous Bio: Elopes with new ideas before approval.
+Employee ID: 1021
+ First Name: Harney
+ Last Name: Shepherdson
+ Address: 300 Rivalry Ln, Mississippi County, MO 63404
+ Phone: (555) 101-1021
+ Email: h.shepherdson@whitewashandco.com
+ Humorous Bio: Opposes everything… especially the Grangerfords.
+Employee ID: 1022
+ First Name: Boggs
+ Last Name: Townsman
+ Address: 2 Saloon St, Bricksville, MO 63405
+ Phone: (555) 101-1022
+ Email: b.townsman@whitewashandco.com
+ Humorous Bio: Loud opinions, rarely invited back.
+Employee ID: 1023
+ First Name: Sherburn
+ Last Name: Colonel
+ Address: 1 No-Nonsense Rd, Bricksville, MO 63405
+ Phone: (555) 101-1023
+ Email: s.colonel@whitewashandco.com
+ Humorous Bio: Keeps crowds in check with one speech.
+Employee ID: 1024
+ First Name: King
+ Last Name: Fraud
+ Address: 404 Scam Blvd, Traveling, USA
+ Phone: (555) 101-1024
+ Email: k.fraud@whitewashandco.com
+ Humorous Bio: Claims leadership experience… unverified.
+Employee ID: 1025
+ First Name: Duke
+ Last Name: Fraud
+ Address: 404 Scam Blvd, Traveling, USA
+ Phone: (555) 101-1025
+ Email: d.fraud@whitewashandco.com
+ Humorous Bio: Second-in-command of bad ideas.
+Employee ID: 1026
+ First Name: Silas
+ Last Name: Phelps
+ Address: 50 Farmstead Rd, Arkansas
+ Phone: (555) 101-1026
+ Email: s.phelps@whitewashandco.com
+ Humorous Bio: Always ready to help, even when unnecessary.
+Employee ID: 1027
+ First Name: Sally
+ Last Name: Phelps
+ Address: 50 Farmstead Rd, Arkansas
+ Phone: (555) 101-1027
+ Email: sa.phelps@whitewashandco.com
+ Humorous Bio: Hospitality committee of one.
+Employee ID: 1028
+ First Name: William
+ Last Name: Finn
+ Address: 7 Riverbank Rd, St. Petersburg, MO 63402
+ Phone: (555) 101-1028
+ Email: w.finn@whitewashandco.com
+ Humorous Bio: Prefers naps over networking.
+Employee ID: 1029
+ First Name: Judith
+ Last Name: Loftus
+ Address: 33 Clever St, Missouri
+ Phone: (555) 101-1029
+ Email: j.loftus@whitewashandco.com
+ Humorous Bio: Can spot a disguise from a mile away.
+Employee ID: 1030
+ First Name: Mr.
+ Last Name: Dobbins
+ Address: 19 Classroom Rd, Hannibal, MO 63401
+ Phone: (555) 101-1030
+ Email: mr.dobbins@whitewashandco.com
+ Humorous Bio: Takes rules very seriously… until cake appears.
+Employee ID: 1031
+ First Name: Johnny
+ Last Name: Miller
+ Address: 5 Playground Ln, Hannibal, MO 63401
+ Phone: (555) 101-1031
+ Email: j.miller@whitewashandco.com
+ Humorous Bio: Brings energy, not always direction.
+Employee ID: 1032
+ First Name: Susy
+ Last Name: Clemens
+ Address: 10 Author Ave, Hartford, CT 06105
+ Phone: (555) 101-1032
+ Email: su.clemens@whitewashandco.com
+ Humorous Bio: Observes everything, reports selectively.
+Employee ID: 1033
+ First Name: Clara
+ Last Name: Clemens
+ Address: 10 Author Ave, Hartford, CT 06105
+ Phone: (555) 101-1033
+ Email: c.clemens@whitewashandco.com
+ Humorous Bio: Adds refinement to otherwise chaotic teams.
+Employee ID: 1034
+ First Name: Jean
+ Last Name: Clemens
+ Address: 10 Author Ave, Hartford, CT 06105
+ Phone: (555) 101-1034
+ Email: j2.clemens@whitewashandco.com
+ Humorous Bio: Quietly outsmarts everyone.
+Employee ID: 1035
+ First Name: Hank
+ Last Name: Morgan
+ Address: 1 Camelot Dr, England
+ Phone: (555) 101-1035
+ Email: h.morgan@whitewashandco.com
+ Humorous Bio: Time-traveling consultant with mixed results.
+Employee ID: 1036
+ First Name: Merlin
+ Last Name: Wizard
+ Address: 2 Enchanted Tower, Camelot
+ Phone: (555) 101-1036
+ Email: m.wizard@whitewashandco.com
+ Humorous Bio: Claims magic, delivers spreadsheets.
+Employee ID: 1037
+ First Name: Sandy
+ Last Name: Girl
+ Address: 3 Castle Yard, Camelot
+ Phone: (555) 101-1037
+ Email: s.girl@whitewashandco.com
+ Humorous Bio: Surprisingly practical in absurd situations.
+Employee ID: 1038
+ First Name: Edward
+ Last Name: Tudor
+ Address: Royal Palace, London, UK
+ Phone: (555) 101-1038
+ Email: e.tudor@whitewashandco.com
+ Humorous Bio: Occasionally forgets he's not actually king here.
+Employee ID: 1039
+ First Name: Tom
+ Last Name: Canty
+ Address: 6 Poorhouse Ln, London, UK
+ Phone: (555) 101-1039
+ Email: t.canty@whitewashandco.com
+ Humorous Bio: Adapts quickly to better job titles.
+Employee ID: 1040
+ First Name: Miles
+ Last Name: Hendon
+ Address: 7 Loyal Rd, England
+ Phone: (555) 101-1040
+ Email: m.hendon@whitewashandco.com
+ Humorous Bio: Loyal to a fault, especially bad plans.
+Employee ID: 1041
+ First Name: Hugh
+ Last Name: Hendon
+ Address: 8 Sneaky St, England
+ Phone: (555) 101-1041
+ Email: h.hendon@whitewashandco.com
+ Humorous Bio: Always looking for promotions… by any means.
+Employee ID: 1042
+ First Name: Edith
+ Last Name: Hendon
+ Address: 9 Quiet Ln, England
+ Phone: (555) 101-1042
+ Email: e.hendon@whitewashandco.com
+ Humorous Bio: Speaks softly, thinks loudly.
+Employee ID: 1043
+ First Name: Angelo
+ Last Name: Capello
+ Address: 12 Italian St, London, UK
+ Phone: (555) 101-1043
+ Email: a.capello@whitewashandco.com
+ Humorous Bio: Keeps records and secrets equally well.
+Employee ID: 1044
+ First Name: Betsy
+ Last Name: Thatcher
+ Address: 22 Schoolhouse St, Hannibal, MO 63401
+ Phone: (555) 101-1044
+ Email: be.thatcher@whitewashandco.com
+ Humorous Bio: Related to Becky, equally determined.
+Employee ID: 1045
+ First Name: Nat
+ Last Name: Parson
+ Address: 11 Wagon Rd, Missouri
+ Phone: (555) 101-1045
+ Email: n.parson@whitewashandco.com
+ Humorous Bio: Reliable unless distracted by adventure.
+Employee ID: 1046
+ First Name: Jake
+ Last Name: Packard
+ Address: 13 Trouble St, Missouri
+ Phone: (555) 101-1046
+ Email: j.packard@whitewashandco.com
+ Humorous Bio: Usually near the scene when things go wrong.
+Employee ID: 1047
+ First Name: Will
+ Last Name: Mufferson
+ Address: 15 Fancy Hat Ave, Hannibal, MO 63401
+ Phone: (555) 101-1047
+ Email: w.mufferson@whitewashandco.com
+ Humorous Bio: Values appearance over effort.
+Employee ID: 1048
+ First Name: Mrs.
+ Last Name: Harper
+ Address: 3 Pirate Cove, Mississippi River, MO 63403
+ Phone: (555) 101-1048
+ Email: mrs.harper@whitewashandco.com
+ Humorous Bio: Keeps Joe in line… mostly.
+Employee ID: 1049
+ First Name: Rev.
+ Last Name: Sprague
+ Address: 20 Church St, Hannibal, MO 63401
+ Phone: (555) 101-1049
+ Email: rev.sprague@whitewashandco.com
+ Humorous Bio: Delivers long speeches with longer pauses.
+Employee ID: 1050
+ First Name: Dr.
+ Last Name: Robinson
+ Address: 99 Mysterious Rd, Outside Town
+ Phone: (555) 101-1050
+ Email: dr.robinson@whitewashandco.com
+ Humorous Bio: Knows more than he lets on—and that's concerning.
